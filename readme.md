@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindg1211&label=Profile%20views&color=0e75b6&style=flat" alt="govindg1211" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindg1211" alt="govindg1211" /></a> </p>
-- 🔭 I’m currently focused on ** Data Analytics **
+- 🔭 I’m currently focused on Data Analytics 
 
 - 🌱 Expanding my skills with **Statics and Python**
 
