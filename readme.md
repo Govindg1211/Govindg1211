@@ -25,24 +25,23 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<div style="text-align: center;">
+<div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Govindg1211&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Govindg1211&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Govindg1211&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Govindg1211&theme=date_night&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Govindg1211&theme=date_night&hide_border=false" alt="Streak Stats" width="49%" /><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindg1211&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Govindg1211&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=Govindg1211&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="60%" />
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="60%" />
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Govindg1211&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Govindg1211&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="60%" />
 
 </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Govindg1211&icon=1&color=1)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
