@@ -1,53 +1,71 @@
-# 💫 About Me:
-🔭 I’m currently focused on Data Analytics<br>
-🌱 Expanding my skills with Statics and Python<br>
-👯 Open to collaborations on Data Visualisation<br>
-🤝 Seeking expertise in Data Science<br>
-💬 Feel free to ask me about Data analysis<br>
-📫 How to reach me: <a href="mailto:govindgupta057@gmail.com">govindgupta057@gmail.com</a><br>
-⚡ Fun fact: I think I am funny
+<h1 align="center">Hi there, I'm Govind 👋</h1>
+
+<p align="center">
+🔍 <strong>Data Analyst in Progress | Passionate about uncovering insights with Python & Statistics</strong><br>
+🌟 Exploring the world of Data Science and always open to collaboration!
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govindg1211) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindgupta057@gmail.com) 
+## 💫 About Me
+
+- 🔭 I’m currently focused on **Data Analytics**  
+- 🌱 Expanding my skills in **Statistics** and **Python**  
+- 👯 Open to collaborations on **Data Visualization**  
+- 🤝 Seeking guidance and mentorship in **Data Science**  
+- 💬 Ask me anything about **Data Analysis**  
+- 📫 Reach me at: [govindgupta057@gmail.com](mailto:govindgupta057@gmail.com)  
+- ⚡ Fun fact: *I think I’m funny* 😄
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🌐 Connect with Me
+
+<p align="center"> <a href="https://linkedin.com/in/govindg1211" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:govindgupta057@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
 
 ---
+
+## 💻 Tech Stack
+
+<p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> </p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Govindg1211&theme=date_night&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Govindg1211&theme=date_night&hide_border=false" alt="Streak Stats" width="49%" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindg1211&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
-
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Govindg1211&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="60%" />
-
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="60%" />
-
-### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Govindg1211&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="60%" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Govindg1211&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Govindg1211&theme=tokyonight&hide_border=false" width="49%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindg1211&layout=compact&theme=tokyonight&hide_border=false" width="49%" />
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Govindg1211&icon=1&color=1)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Govindg1211&theme=radical&no-frame=false&no-bg=true&margin-w=10" width="70%" />
+</p>
+
+---
+
+## ✍️ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%" />
+</p>
+
+---
+
+## 🔝 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Govindg1211&limit=5&theme=radical&combine_all_yearly_contributions=true" width="60%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Govindg1211&icon=1&color=1" />
+</p>
