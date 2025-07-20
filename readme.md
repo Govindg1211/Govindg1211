@@ -4,7 +4,6 @@
 🔍 <strong>Data Analyst in Progress | Passionate about uncovering insights with Python & Statistics</strong><br>
 🌟 Exploring the world of Data Science and always open to collaboration!
 </p>
-# Stock Market Data Analyst & Prediction
 
 ---
 
