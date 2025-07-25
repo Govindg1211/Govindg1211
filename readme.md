@@ -76,7 +76,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Govindg1211&icon=1&color=1" />
-</p>
