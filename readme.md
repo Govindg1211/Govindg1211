@@ -19,7 +19,17 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center"> <a href="https://linkedin.com/in/govindg1211" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:govindgupta057@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/govindg1211" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:govindgupta057@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.datascienceportfol.io/govindg1211" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-4B8BBE?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
