@@ -50,10 +50,10 @@
 
 ## 📂 Featured Projects
 Here are some of my recent works — turning raw data into meaningful insights:  
-- 📊 **[Retail Analytics Dashboard](#)** – Customer segmentation & sales trends  
-- 🛒 **[E-commerce Sales Insights](#)** – Analyzing buying patterns & revenue impact  
-- 🗺 **[COVID-19 Data Tracker](#)** – Real-time visualization of pandemic statistics  
-- 🍟 **[Chips Purchase Behavior Study](#)** – Quantium Retail Analytics case study  
+- 📊 **[Stock Market Dashboard](https://github.com/Govindg1211/Stock-Market-Dashboard)** – Shares purchase & sales trends  
+- 🛒 **[Online Course Analysis Dashboard](https://github.com/Govindg1211/Online-Course-Analysis-Dashboard)** – Analyzing durationof courses & students preferences  
+- 🗺 **[Used Bike Price Prediction](https://github.com/Govindg1211/Used-Bike-Price-Prediction)** – Real-time sale & purchase rate of old bikes   
+- 🍟 **[Credit Card Fraud Detection](https://github.com/Govindg1211/Credit-Card-Fraud-Detection)** – Live detection of the credit card fraud  
 
 > 🖥 Check out more in my **[Portfolio](https://www.datascienceportfol.io/govindg1211)**
 
