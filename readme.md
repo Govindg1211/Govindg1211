@@ -12,7 +12,7 @@
 - 📚 **Learning:** Advanced Statistics & Python for Data Science  
 - 🤝 **Open to collaborate on:** Data Visualization, Data Cleaning & Exploratory Analysis  
 - 💬 **Ask me about:** Python, Pandas, SQL, and turning raw data into actionable insights  
-- 📫 **Reach me at:** [govindgupta057@gmail.com](mailto:govindgupta057@gmail.com)  
+- 📫 **Reach me at:** [Gmail](mailto:govindgupta057@gmail.com)  
 - ⚡ **Fun fact:** Data tells stories, I just help narrate them  
 
 ---
